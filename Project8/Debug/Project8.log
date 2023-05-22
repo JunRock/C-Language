@@ -1,0 +1,14 @@
+﻿  소스.c
+c:\users\이준석\source\repos\project8\소스.c(32): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(39): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(49): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(64): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(75): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(77): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(100): warning C4133: '=': 'ListNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\이준석\source\repos\project8\소스.c(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\이준석\source\repos\project8\소스.c(120): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\project8\소스.c(87): warning C4716: 'bubble_sort': 값을 반환해야 합니다.
+  Project8.vcxproj -> C:\Users\이준석\source\repos\Project8\Debug\Project8.exe

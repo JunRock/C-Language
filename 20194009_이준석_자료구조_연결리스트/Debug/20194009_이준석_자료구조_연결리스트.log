@@ -1,0 +1,17 @@
+﻿  20194009_이준석_자료구조_연결리스트.c
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(137): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(148): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(151): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(152): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(161): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\20194009_이준석_자료구조_연결리스트.c(165): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+  20194009_이준석_자료구조_연결리스트.vcxproj -> C:\Users\이준석\source\repos\20194009_이준석_자료구조_연결리스트\Debug\20194009_이준석_자료구조_연결리스트.exe

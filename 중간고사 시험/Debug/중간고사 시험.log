@@ -1,0 +1,11 @@
+﻿  1번문제.c
+  2번문제.c
+  3번문제.c
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(15): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(33): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(63): warning C4013: 'tolower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(85): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(82): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+c:\users\이준석\source\repos\중간고사 시험\3번문제.c(16): warning C4716: 'init': 값을 반환해야 합니다.
+  중간고사 시험.vcxproj -> C:\Users\이준석\source\repos\중간고사 시험\Debug\중간고사 시험.exe

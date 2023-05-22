@@ -1,0 +1,39 @@
+﻿  1번.c
+  2번.c
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(71): warning C4101: 'eng' :참조되지 않은 지역 변수입니다.
+c:\users\이준석\source\repos\자구 기말고사 준비\2번.c(72): warning C4101: 'kor' :참조되지 않은 지역 변수입니다.
+  5장 연습문제 10번.c
+  5장 연습문제 8번.c
+  5장 연습문제 9번.c
+  6장 연습문제 13번.c
+  7장 연습문제 3번.c
+  다항식덧셈 연결리스트.c
+  단어저장 연결리스트.c
+  덱.c
+  두개의 리스트 연결하는 연결리스트.c
+  배열 연결리스트.c
+  병합 연결리스트.c
+  insert_last.c
+  실습2.c
+  스택 연결리스트.c
+  실습.c
+  실습3.c
+  중위표기식.c
+  역순 연결리스트.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  원형 큐.c
+  원형연결리스트.c
+  최대최소 연결리스트.c
+  특정 값 탐색 연결리스트.c
+  홀수번째 노드 연결리스트.c
+  코드를 생성하고 있습니다...
+  자구 기말고사 준비.vcxproj -> C:\Users\이준석\source\repos\자구 기말고사 준비\x64\Debug\자구 기말고사 준비.exe
